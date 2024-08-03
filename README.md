@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the basis of my skills and knowledge of data analysis and data visualization.
 - 📫 you can contact me on my mobile number, email and my linkedin profile.
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ fun fact: Always want to learn from seniors and try to implement by myself next time as early as i can.
 
 <!---
 aniketdande123/aniketdande123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
